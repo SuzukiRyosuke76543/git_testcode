@@ -5,3 +5,4 @@ case "$STRING" in
 esac
 
 echo "git checkout command"
+echo "git checkout command2"

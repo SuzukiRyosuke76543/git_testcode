@@ -6,3 +6,4 @@ esac
 
 echo "git checkout command"
 echo "git checkout command2"
+echo "git checkout amend2"
